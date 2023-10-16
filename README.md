@@ -12,10 +12,6 @@ Java
 - As a user if I play against a computer player, I should be able to enter my option as well as get an option from the computer player.
 - As a user, I should be able to see a winner be declared after each round of the game.
 
-## Foundational Notes:
-
-![IMG_4176.png](IMG_4176.png)
-
 ## Planning & Execution: 
 
 I started this projects by writing notes on what ideas I had for the classes and methods needed. I started with an abstract player class, and created two extended classes: one for human players and one for computer players.
